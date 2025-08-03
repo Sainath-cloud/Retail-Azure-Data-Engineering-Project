@@ -63,7 +63,7 @@ Using the **Medallion Architecture** (Bronze → Silver → Gold), the project e
 
 ## 🏗️ Pipeline Architecture
 
-![Azure Data Pipeline](diagrams/azure_pipeline_diagram.png)
+![Azure Data Pipeline](Data Flow.png)
 
 **Flow:**
 - Ingest data via ADF from Azure SQL & JSON API
