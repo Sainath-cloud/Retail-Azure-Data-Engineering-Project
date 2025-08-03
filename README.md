@@ -36,16 +36,14 @@ Using the **Medallion Architecture** (Bronze → Silver → Gold), the project e
 ```
 📦 Retail-Azure-Project/
 ├── notebooks/
-│   ├── 01_Bronze_Ingestion.py
-│   ├── 02_Silver_Transformation.py
-│   └── 03_Gold_Aggregation.py
+│   ├── Retail Project Notebook.dbc
 ├── data/
 │   ├── SCRIPT_SQL.txt
 │   └── customers.json
 ├── powerbi/
 │   └── Retail Project.pbix
 ├── diagrams/
-│   └── azure_pipeline_diagram.png
+│   └── Data_Flow.png
 ├── requirements.txt
 └── README.md
 ```
@@ -143,14 +141,4 @@ sqlalchemy
 
 ---
 
-## 🙋‍♂️ Author
 
-**Your Name**  
-Data Engineer  
-[LinkedIn](#) | [Portfolio](#) | [Email](#)
-
----
-
-## 📜 License
-
-MIT License – feel free to use and adapt with attribution.
