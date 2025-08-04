@@ -36,7 +36,7 @@ Using the **Medallion Architecture** (Bronze → Silver → Gold), the project e
 ```
 📦 Retail-Azure-Project/
 ├── notebooks/
-│   ├── Retail Project Notebook.dbc
+│   ├── Retail Project Notebook.ipynb
 ├── data/
 │   ├── SCRIPT_SQL.txt
 │   └── customers.json
